@@ -7,3 +7,7 @@ If Statment
 If-Else
 
 else-if
+
+
+AND &&
+Or ||
